@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anula Mishra</h1>
 
 <p align="center">
-  Full-stack developer & ML enthusiast · CS @ KIIT '27
+  Full-stack developer & ML enthusiast · CS @ KIIT
 </p>
 
 <p align="center">
