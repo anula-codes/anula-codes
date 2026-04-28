@@ -48,15 +48,6 @@ Currently deepening my full-stack skills and exploring machine learning, one pro
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it does |
-|---|---|
-| [AI Image Detector](https://github.com/anula-codes) | CNN classifier that tells real photos from AI-generated ones using transfer learning |
-| [XOR Encryption Chat](https://github.com/anula-codes) | Secure client-server messaging using XOR cipher with hex encoding |
-
----
-
 ### 📈 GitHub stats
 
 <p align="center">
@@ -68,7 +59,7 @@ Currently deepening my full-stack skills and exploring machine learning, one pro
 
 ### ⚡ Fun fact
 
-I scored 12 on Duolingo after learning German (A1) in school — and I still remember _wie geht's_.
+I have a score of 12 on Duolingo after learning German (A1) in school — and I still remember _wie geht's_.
 
 ---
 
